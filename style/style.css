@@ -1,0 +1,44 @@
+main {
+  margin-left: 10%;
+}
+
+.btn-cart {
+  color: #043030;
+  font-size: 32px;
+  background: none;
+  text-shadow: 5px 4px 5px #0e9948;
+  border: none;
+  margin: 3%;
+}
+
+.btn-cart:hover {
+  cursor: pointer;
+  color: #1747b0;
+}
+
+h3 {
+  font-size: 24px;
+  color: #0e1f1f;
+  font-weight: 800;
+}
+
+p {
+  font-size: 20px;
+  color: #42509e;
+  font-weight: 600;
+}
+
+.by-btn {
+  background: none;
+  color: #1747b0;
+  border: none;
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 25px;
+}
+
+.by-btn:hover {
+  cursor: pointer;
+  color: #0b472b;
+}
+/*# sourceMappingURL=style.css.map */
